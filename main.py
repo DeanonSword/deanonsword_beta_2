@@ -34,7 +34,7 @@ import time
 
 print("Запускаем обратный отсчет...")
 for i in range(5, 0, -1):
-    print(str(i)
+    
     time.sleep(1)
 
 print("Пуск!")
